@@ -1,0 +1,14 @@
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/bin/Debug/net9.0/consoleProject
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/bin/Debug/net9.0/consoleProject.deps.json
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/bin/Debug/net9.0/consoleProject.runtimeconfig.json
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/bin/Debug/net9.0/consoleProject.dll
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/bin/Debug/net9.0/consoleProject.pdb
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.AssemblyInfoInputs.cache
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.AssemblyInfo.cs
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.csproj.CoreCompileInputs.cache
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.dll
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/refint/consoleProject.dll
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.pdb
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/consoleProject.genruntimeconfig.cache
+/Users/lev/VSStudioProjects/consoleprojectme/consoleProject/obj/Debug/net9.0/ref/consoleProject.dll
