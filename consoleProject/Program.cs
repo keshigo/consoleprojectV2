@@ -5,7 +5,7 @@ using System.Text.Json;
 using System.IO;
 using System.Linq;
 
-namespace RecipesApp
+namespace ConsoleAppV2
 {
     public class Program
     {
